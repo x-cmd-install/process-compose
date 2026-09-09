@@ -7,7 +7,7 @@ about:
   latestVersion: "v1.122.0"
   latestRelease: "v1.122.0"
   latestPrerelease: "v0.55.0"
-  collectedAt: 2026-09-09T06:02:55Z
+  collectedAt: 2026-09-09T20:21:03Z
 timeline:
   created: 2022-04-05
   lastCommit: 2026-08-17
@@ -15,13 +15,13 @@ timeline:
   lastRelease: 2026-08-17
   lastPrerelease: 2023-07-10
 popularity:
-  star: 2759
+  star: 2764
   watcher: 13
   fork: 148
   release: 72
   contributor: 54
   pullRequest: 178
-  issue: 299
+  issue: 300
 language:
   Go: 1299055
   Python: 62470
@@ -40,7 +40,7 @@ recent:
     mergedPR: 0
     openPR: 3
     closedIssue: 4
-    openIssue: 8
+    openIssue: 9
     commit: 6
   last60d:
     since: 2026-07-11
@@ -48,7 +48,7 @@ recent:
     mergedPR: 0
     openPR: 6
     closedIssue: 7
-    openIssue: 10
+    openIssue: 11
     commit: 13
   last90d:
     since: 2026-06-11
@@ -56,7 +56,7 @@ recent:
     mergedPR: 2
     openPR: 6
     closedIssue: 12
-    openIssue: 10
+    openIssue: 11
     commit: 26
   last180d:
     since: 2026-03-13
@@ -64,7 +64,7 @@ recent:
     mergedPR: 12
     openPR: 6
     closedIssue: 36
-    openIssue: 11
+    openIssue: 12
     commit: 87
   last360d:
     since: 2025-09-14
@@ -72,7 +72,7 @@ recent:
     mergedPR: 20
     openPR: 8
     closedIssue: 64
-    openIssue: 12
+    openIssue: 13
     commit: 213
   last720d:
     since: 2024-09-19
@@ -80,18 +80,18 @@ recent:
     mergedPR: 62
     openPR: 9
     closedIssue: 140
-    openIssue: 14
+    openIssue: 15
     commit: 405
 total:
   release: 72
   mergedPR: 104
   openPR: 9
   closedIssue: 285
-  openIssue: 14
+  openIssue: 15
   commit: 850
 ---
 path: /home/runner/.x-repo/github.com/F1bonacc1/process-compose
-collectedAt: 2026-09-09T06:02:57Z
+collectedAt: 2026-09-09T20:21:05Z
 loc:
   Go:
     code: 38909
