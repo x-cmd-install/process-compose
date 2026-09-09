@@ -7,7 +7,7 @@ Process Compose is a simple and flexible scheduler and orchestrator to manage no
 - **Latest release**: `v1.122.0` (2026-08-17)
 - **Last commit**: 2026-08-17
 - **License**: Apache-2.0
-- **Stars**: 2759 · **Forks**: 148 · **Open issues**: 299 · **Contributors**: 54
+- **Stars**: 2764 · **Forks**: 148 · **Open issues**: 300 · **Contributors**: 54
 
 ## Installation
 
@@ -21,4 +21,4 @@ See <https://x-cmd.com/install/process-compose> for details.
 
 This mirror is auto-maintained by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action). Latest card snapshot: `data/card/260909.yml`. Merged card+release view: `data/latest.report.yml`.
 
-_Last regenerated: 2026-09-09T06:03:01Z._
+_Last regenerated: 2026-09-09T20:21:08Z._
