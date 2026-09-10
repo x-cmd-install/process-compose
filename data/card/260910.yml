@@ -7,7 +7,7 @@ about:
   latestVersion: "v1.122.0"
   latestRelease: "v1.122.0"
   latestPrerelease: "v0.55.0"
-  collectedAt: 2026-09-10T21:19:28Z
+  collectedAt: 2026-09-10T22:41:35Z
 timeline:
   created: 2022-04-05
   lastCommit: 2026-08-17
@@ -15,7 +15,7 @@ timeline:
   lastRelease: 2026-08-17
   lastPrerelease: 2023-07-10
 popularity:
-  star: 2766
+  star: 2767
   watcher: 13
   fork: 147
   release: 72
@@ -91,7 +91,7 @@ total:
   commit: 850
 ---
 path: /home/runner/.x-repo/github.com/F1bonacc1/process-compose
-collectedAt: 2026-09-10T21:19:29Z
+collectedAt: 2026-09-10T22:41:38Z
 loc:
   Go:
     code: 38909
