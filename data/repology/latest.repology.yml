@@ -1,0 +1,126 @@
+- repo: altsisyphus
+  srcname: process-compose
+  binnames:
+    - process-compose
+  visiblename: process-compose
+  version: 1.122.0
+  origversion: 1.122.0-alt1
+  status: newest
+  summary: Process Compose is a simple and flexible scheduler and orchestrator to manage non-containerized applications.
+  maintainers:
+    - zerospirit@altlinux.org
+  licenses:
+    - Apache-2.0
+  categories:
+    - Monitoring
+- repo: aur
+  srcname: process-compose
+  binname: process-compose
+  visiblename: process-compose
+  version: 1.46.0
+  origversion: 1.46.0-1
+  status: outdated
+  summary: Process Compose is a simple and flexible scheduler and orchestrator to manage non-containerized applications.
+  maintainers:
+    - remolacha@aur
+  licenses:
+    - MIT
+- repo: aur
+  srcname: process-compose-bin
+  binname: process-compose-bin
+  visiblename: process-compose-bin
+  version: 1.122.0
+  origversion: 1.122.0-1
+  status: newest
+  summary: Scheduler and orchestrator to manage non-containerized applications (prebuilt)
+  maintainers:
+    - quatro@aur
+  licenses:
+    - Apache-2.0
+- repo: aur
+  srcname: process-compose-git
+  binname: process-compose-git
+  visiblename: process-compose-git
+  version: 1.87.0.r17.gf9114c3
+  origversion: 1.87.0.r17.gf9114c3-1
+  status: rolling
+  summary: A simple and flexible scheduler and orchestrator to manage non-containerized applications
+  maintainers:
+    - ggorg@aur
+  licenses:
+    - Apache-2.0
+- repo: nix_stable_24_05
+  srcname: process-compose
+  visiblename: process-compose
+  version: 1.6.1
+  origversion: null
+  status: outdated
+  summary: A simple and flexible scheduler and orchestrator to manage non-containerized applications
+  maintainers:
+    - thenonameguy24@gmail.com
+  licenses:
+    - Apache-2.0
+- repo: nix_stable_24_11
+  srcname: process-compose
+  visiblename: process-compose
+  version: 1.46.0
+  origversion: null
+  status: outdated
+  summary: Simple and flexible scheduler and orchestrator to manage non-containerized applications
+  maintainers:
+    - thenonameguy24@gmail.com
+  licenses:
+    - Apache-2.0
+- repo: nix_stable_25_05
+  srcname: process-compose
+  visiblename: process-compose
+  version: 1.64.1
+  origversion: null
+  status: outdated
+  summary: Simple and flexible scheduler and orchestrator to manage non-containerized applications
+  maintainers:
+    - thenonameguy24@gmail.com
+  licenses:
+    - Apache-2.0
+- repo: nix_stable_25_11
+  srcname: process-compose
+  visiblename: process-compose
+  version: 1.78.0
+  origversion: null
+  status: outdated
+  summary: Simple and flexible scheduler and orchestrator to manage non-containerized applications
+  maintainers:
+    - thenonameguy24@gmail.com
+  licenses:
+    - Apache-2.0
+- repo: nix_stable_26_05
+  srcname: process-compose
+  visiblename: process-compose
+  version: 1.110.0
+  origversion: null
+  status: outdated
+  summary: Simple and flexible scheduler and orchestrator to manage non-containerized applications
+  maintainers:
+    - thenonameguy24@gmail.com
+  licenses:
+    - Apache-2.0
+- repo: nix_unstable
+  srcname: process-compose
+  visiblename: process-compose
+  version: 1.120.0
+  origversion: null
+  status: outdated
+  summary: Simple and flexible scheduler and orchestrator to manage non-containerized applications
+  maintainers:
+    - thenonameguy24@gmail.com
+  licenses:
+    - Apache-2.0
+- repo: scoop
+  subrepo: extras
+  binname: process-compose
+  visiblename: process-compose
+  version: 1.122.0
+  origversion: null
+  status: newest
+  licenses:
+    - Apache-2.0
