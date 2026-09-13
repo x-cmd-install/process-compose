@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 804,
       "digest": "sha256:07e5377c2224380a1cf9fe2741e587f58f4051e532389ab7c7edec0ff2445684",
-      "download_count": 11592,
+      "download_count": 12203,
       "created_at": "2026-08-17T23:00:38Z",
       "updated_at": "2026-08-17T23:00:38Z",
       "browser_download_url": "https://github.com/F1bonacc1/process-compose/releases/download/v1.122.0/process-compose_checksums.txt"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 15096553,
       "digest": "sha256:eaa1238a1d6c300e928ef855d36a3d95aab8da64997104d74ea73d91d3cb6c60",
-      "download_count": 3486,
+      "download_count": 3624,
       "created_at": "2026-08-17T23:00:38Z",
       "updated_at": "2026-08-17T23:00:47Z",
       "browser_download_url": "https://github.com/F1bonacc1/process-compose/releases/download/v1.122.0/process-compose_darwin_arm64.tar.gz"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 15908686,
       "digest": "sha256:9b6dbc38324c0b0481f1cd1dd828ffdc78117129ec797678f4bf8c4023311281",
-      "download_count": 26088,
+      "download_count": 27238,
       "created_at": "2026-08-17T23:00:38Z",
       "updated_at": "2026-08-17T23:00:47Z",
       "browser_download_url": "https://github.com/F1bonacc1/process-compose/releases/download/v1.122.0/process-compose_linux_amd64.tar.gz"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 14648378,
       "digest": "sha256:52fa7d5a2d5e0db470faec5976204fc215ed7e3d13689e930cf522becfb63778",
-      "download_count": 1123,
+      "download_count": 1203,
       "created_at": "2026-08-17T23:00:38Z",
       "updated_at": "2026-08-17T23:00:47Z",
       "browser_download_url": "https://github.com/F1bonacc1/process-compose/releases/download/v1.122.0/process-compose_linux_arm64.tar.gz"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 16026320,
       "digest": "sha256:13fd7023199c7375c26477f11f213fde826e932d831f7dd51a5c229fbee3bf79",
-      "download_count": 449,
+      "download_count": 492,
       "created_at": "2026-08-17T23:00:38Z",
       "updated_at": "2026-08-17T23:00:47Z",
       "browser_download_url": "https://github.com/F1bonacc1/process-compose/releases/download/v1.122.0/process-compose_windows_amd64.zip"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 14582413,
       "digest": "sha256:36a7bcf76e584a630f0b6ec7253c51cd116e686f8ffdd61c9371eeb69e7b3b49",
-      "download_count": 22,
+      "download_count": 23,
       "created_at": "2026-08-17T23:00:38Z",
       "updated_at": "2026-08-17T23:00:47Z",
       "browser_download_url": "https://github.com/F1bonacc1/process-compose/releases/download/v1.122.0/process-compose_windows_arm64.zip"
