@@ -38,22 +38,22 @@ Total: **51,446** lines of code across **372** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 2,773 · **Forks**: 147 · **Open issues**: 301 · **Contributors**: 54
+- **Stars**: 2,771 · **Forks**: 148 · **Open issues**: 301 · **Contributors**: 54
 
 ## Totals (cumulative)
 
-- **Releases**: 72 · **Merged PRs**: 104 · **Open PRs**: 9 · **Closed issues**: 286 · **Open issues**: 15 · **Commits**: 850
+- **Releases**: 72 · **Merged PRs**: 104 · **Open PRs**: 10 · **Closed issues**: 286 · **Open issues**: 15 · **Commits**: 850
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-14 | 1 | 0 | 3 | 2 | 8 | 0 |
-| last60d | 2026-07-15 | 1 | 0 | 6 | 7 | 11 | 13 |
-| 90d | 2026-06-15 | 3 | 2 | 6 | 13 | 11 | 21 |
-| last180d | 2026-03-17 | 6 | 11 | 6 | 37 | 11 | 69 |
-| 360d | 2025-09-18 | 14 | 20 | 8 | 65 | 13 | 211 |
-| last720d | 2024-09-23 | 22 | 62 | 9 | 140 | 15 | 405 |
+| 30d | 2026-08-15 | 1 | 0 | 4 | 2 | 8 | 0 |
+| last60d | 2026-07-16 | 1 | 0 | 7 | 7 | 10 | 13 |
+| 90d | 2026-06-16 | 3 | 2 | 7 | 13 | 11 | 21 |
+| last180d | 2026-03-18 | 6 | 11 | 7 | 37 | 11 | 69 |
+| 360d | 2025-09-19 | 14 | 20 | 9 | 65 | 13 | 211 |
+| last720d | 2024-09-24 | 22 | 62 | 10 | 139 | 15 | 404 |
 
 ## Release assets
 
@@ -69,14 +69,6 @@ Total: **51,446** lines of code across **372** files in the top 5 languages.
 | [process-compose_windows_amd64.zip](https://github.com/F1bonacc1/process-compose/releases/download/v1.122.0/process-compose_windows_amd64.zip) | 15.3 MiB | `native/win/x64` |
 | [process-compose_windows_arm64.zip](https://github.com/F1bonacc1/process-compose/releases/download/v1.122.0/process-compose_windows_arm64.zip) | 13.9 MiB | `native/win/arm64` |
 
-## Distribution status
-
-Reported by **11** distros on [repology.org](https://repology.org/project/process-compose). **3** are ✅ on the latest upstream release, **7** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Nix unstable | `1.120.0` | ⚠️ outdated |
-
 ## Improve this data
 
 Install metadata for process-compose lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `process-compose` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -86,4 +78,4 @@ Install metadata for process-compose lives in the [x-cmd/install](https://github
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260913.yml` · 2026-09-13T05:55:51Z._
+_Snapshot: `data/card/260914.yml` · 2026-09-14T06:21:09Z._

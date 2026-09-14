@@ -38,22 +38,22 @@ x install process-compose
 
 ## 流行度
 
-- **Star**: 2,773 · **Fork**: 147 · **开放 issue**: 301 · **贡献者**: 54
+- **Star**: 2,771 · **Fork**: 148 · **开放 issue**: 301 · **贡献者**: 54
 
 ## 累计统计
 
-- **发布数**: 72 · **已合并 PR**: 104 · **开放 PR**: 9 · **已关闭 issue**: 286 · **开放 issue**: 15 · **提交数**: 850
+- **发布数**: 72 · **已合并 PR**: 104 · **开放 PR**: 10 · **已关闭 issue**: 286 · **开放 issue**: 15 · **提交数**: 850
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-14 | 1 | 0 | 3 | 2 | 8 | 0 |
-| last60d | 2026-07-15 | 1 | 0 | 6 | 7 | 11 | 13 |
-| 90d | 2026-06-15 | 3 | 2 | 6 | 13 | 11 | 21 |
-| last180d | 2026-03-17 | 6 | 11 | 6 | 37 | 11 | 69 |
-| 360d | 2025-09-18 | 14 | 20 | 8 | 65 | 13 | 211 |
-| last720d | 2024-09-23 | 22 | 62 | 9 | 140 | 15 | 405 |
+| 30d | 2026-08-15 | 1 | 0 | 4 | 2 | 8 | 0 |
+| last60d | 2026-07-16 | 1 | 0 | 7 | 7 | 10 | 13 |
+| 90d | 2026-06-16 | 3 | 2 | 7 | 13 | 11 | 21 |
+| last180d | 2026-03-18 | 6 | 11 | 7 | 37 | 11 | 69 |
+| 360d | 2025-09-19 | 14 | 20 | 9 | 65 | 13 | 211 |
+| last720d | 2024-09-24 | 22 | 62 | 10 | 139 | 15 | 404 |
 
 ## Release 资产
 
@@ -69,14 +69,6 @@ x install process-compose
 | [process-compose_windows_amd64.zip](https://github.com/F1bonacc1/process-compose/releases/download/v1.122.0/process-compose_windows_amd64.zip) | 15.3 MiB | `native/win/x64` |
 | [process-compose_windows_arm64.zip](https://github.com/F1bonacc1/process-compose/releases/download/v1.122.0/process-compose_windows_arm64.zip) | 13.9 MiB | `native/win/arm64` |
 
-## 发行版状态
-
-在 [repology.org](https://repology.org/project/process-compose) 上共有 **11** 个发行版报告此项目。**3** 个 ✅ 已是最新上游版本，**7** 个 ⚠️ 使用旧版本。
-
-| 发行版 | 版本 | 状态 |
-|--------|------|------|
-| Nix unstable | `1.120.0` | ⚠️ outdated |
-
 ## 改进这些数据
 
 process-compose 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索引维护——这是一份由 x-cmd 在安装时读取的精选 YAML 包列表。如果 `process-compose` 缺失、过期，或安装行为有问题，欢迎在该 repo 提 issue 或 PR：
@@ -86,4 +78,4 @@ process-compose 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/i
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260913.yml` · 2026-09-13T05:55:52Z._
+_数据快照: `data/card/260914.yml` · 2026-09-14T06:21:10Z._
