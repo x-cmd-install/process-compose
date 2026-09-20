@@ -4,7 +4,7 @@
 
 Process Compose is a simple and flexible scheduler and orchestrator to manage non-containerized applications.
 
-![process-compose](https://repo.x-cmd.io/process-compose.svg)
+[![x-cmd/install — process-compose Code Quality Monitoring Repo Card](https://repo.x-cmd.io/process-compose.svg)](https://x-cmd.com/install/process-compose)
 
 ## Install
 
@@ -38,22 +38,22 @@ Total: **51,446** lines of code across **372** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 2,779 · **Forks**: 149 · **Open issues**: 301 · **Contributors**: 54
+- **Stars**: 2,783 · **Forks**: 149 · **Open issues**: 302 · **Contributors**: 54
 
 ## Totals (cumulative)
 
-- **Releases**: 72 · **Merged PRs**: 104 · **Open PRs**: 11 · **Closed issues**: 286 · **Open issues**: 15 · **Commits**: 850
+- **Releases**: 72 · **Merged PRs**: 104 · **Open PRs**: 11 · **Closed issues**: 286 · **Open issues**: 16 · **Commits**: 850
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 0 | 0 | 5 | 2 | 8 | 0 |
-| last60d | 2026-07-20 | 1 | 0 | 6 | 7 | 10 | 0 |
-| 90d | 2026-06-20 | 2 | 2 | 8 | 10 | 11 | 0 |
-| last180d | 2026-03-22 | 5 | 11 | 8 | 37 | 11 | 0 |
-| 360d | 2025-09-23 | 13 | 20 | 10 | 65 | 13 | 0 |
-| last720d | 2024-09-28 | 22 | 62 | 11 | 135 | 15 | 402 |
+| 30d | 2026-08-21 | 0 | 0 | 5 | 1 | 8 | 0 |
+| last60d | 2026-07-22 | 1 | 0 | 6 | 7 | 11 | 13 |
+| 90d | 2026-06-22 | 2 | 2 | 8 | 10 | 12 | 21 |
+| last180d | 2026-03-24 | 5 | 11 | 8 | 37 | 12 | 69 |
+| 360d | 2025-09-25 | 13 | 20 | 10 | 65 | 14 | 211 |
+| last720d | 2024-09-30 | 22 | 61 | 11 | 134 | 16 | 397 |
 
 ## Release assets
 
@@ -78,4 +78,4 @@ Install metadata for process-compose lives in the [x-cmd/install](https://github
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260918.yml` · 2026-09-18T06:01:32Z._
+_Snapshot: `data/card/260920.yml` · 2026-09-20T06:05:22Z._

@@ -4,7 +4,7 @@
 
 Process Compose is a simple and flexible scheduler and orchestrator to manage non-containerized applications.
 
-![process-compose](https://repo.x-cmd.io/process-compose.svg?lang=zh)
+[![x-cmd/install — process-compose Code Quality Monitoring Repo Card](https://repo.x-cmd.io/process-compose.svg?lang=zh)](https://x-cmd.com/install/process-compose)
 
 ## 安装
 
@@ -38,22 +38,22 @@ x install process-compose
 
 ## 流行度
 
-- **Star**: 2,779 · **Fork**: 149 · **开放 issue**: 301 · **贡献者**: 54
+- **Star**: 2,783 · **Fork**: 149 · **开放 issue**: 302 · **贡献者**: 54
 
 ## 累计统计
 
-- **发布数**: 72 · **已合并 PR**: 104 · **开放 PR**: 11 · **已关闭 issue**: 286 · **开放 issue**: 15 · **提交数**: 850
+- **发布数**: 72 · **已合并 PR**: 104 · **开放 PR**: 11 · **已关闭 issue**: 286 · **开放 issue**: 16 · **提交数**: 850
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 0 | 0 | 5 | 2 | 8 | 0 |
-| last60d | 2026-07-20 | 1 | 0 | 6 | 7 | 10 | 0 |
-| 90d | 2026-06-20 | 2 | 2 | 8 | 10 | 11 | 0 |
-| last180d | 2026-03-22 | 5 | 11 | 8 | 37 | 11 | 0 |
-| 360d | 2025-09-23 | 13 | 20 | 10 | 65 | 13 | 0 |
-| last720d | 2024-09-28 | 22 | 62 | 11 | 135 | 15 | 402 |
+| 30d | 2026-08-21 | 0 | 0 | 5 | 1 | 8 | 0 |
+| last60d | 2026-07-22 | 1 | 0 | 6 | 7 | 11 | 13 |
+| 90d | 2026-06-22 | 2 | 2 | 8 | 10 | 12 | 21 |
+| last180d | 2026-03-24 | 5 | 11 | 8 | 37 | 12 | 69 |
+| 360d | 2025-09-25 | 13 | 20 | 10 | 65 | 14 | 211 |
+| last720d | 2024-09-30 | 22 | 61 | 11 | 134 | 16 | 397 |
 
 ## Release 资产
 
@@ -78,4 +78,4 @@ process-compose 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/i
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260918.yml` · 2026-09-18T06:01:33Z._
+_数据快照: `data/card/260920.yml` · 2026-09-20T06:05:23Z._
