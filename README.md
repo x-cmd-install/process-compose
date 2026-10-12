@@ -14,11 +14,11 @@ x install process-compose
 
 ## Code insight
 
-Total: **51,446** lines of code across **372** files in the top 5 languages.
+Total: **51,448** lines of code across **372** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 38,909 | 3,161 | 4,240 | 244 |
+| Go | 38,911 | 3,162 | 4,241 | 244 |
 | Json | 4,215 | 0 | 0 | 14 |
 | Yaml | 4,060 | 118 | 302 | 82 |
 | Python | 1,453 | 47 | 251 | 13 |
@@ -33,27 +33,27 @@ Total: **51,446** lines of code across **372** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v1.122.0` (2026-08-17)
-- **Last commit**: 2026-08-17
+- **Last commit**: 2026-10-10
 - **Assets in release**: 9
 
 ## Popularity
 
-- **Stars**: 2,833 · **Forks**: 155 · **Open issues**: 307 · **Contributors**: 54
+- **Stars**: 2,841 · **Forks**: 154 · **Open issues**: 310 · **Contributors**: 55
 
 ## Totals (cumulative)
 
-- **Releases**: 72 · **Merged PRs**: 104 · **Open PRs**: 15 · **Closed issues**: 287 · **Open issues**: 20 · **Commits**: 850
+- **Releases**: 72 · **Merged PRs**: 105 · **Open PRs**: 16 · **Closed issues**: 287 · **Open issues**: 23 · **Commits**: 851
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-10 | 0 | 0 | 10 | 0 | 7 | 0 |
-| last60d | 2026-08-11 | 1 | 0 | 11 | 5 | 15 | 8 |
-| 90d | 2026-07-12 | 1 | 0 | 12 | 8 | 16 | 13 |
-| last180d | 2026-04-13 | 4 | 10 | 12 | 34 | 16 | 53 |
-| 360d | 2025-10-15 | 13 | 19 | 14 | 63 | 18 | 210 |
-| last720d | 2024-10-20 | 21 | 60 | 15 | 134 | 20 | 383 |
+| 30d | 2026-09-12 | 0 | 0 | 12 | 0 | 9 | 1 |
+| last60d | 2026-08-13 | 1 | 1 | 12 | 3 | 17 | 1 |
+| 90d | 2026-07-14 | 1 | 1 | 13 | 8 | 19 | 14 |
+| last180d | 2026-04-15 | 4 | 11 | 13 | 34 | 19 | 51 |
+| 360d | 2025-10-17 | 13 | 20 | 15 | 63 | 21 | 211 |
+| last720d | 2024-10-22 | 21 | 61 | 16 | 131 | 23 | 384 |
 
 ## Release assets
 
@@ -78,4 +78,4 @@ Install metadata for process-compose lives in the [x-cmd/install](https://github
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261010.yml` · 2026-10-10T06:46:05Z._
+_Snapshot: `data/card/261012.yml` · 2026-10-12T06:59:29Z._
