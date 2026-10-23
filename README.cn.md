@@ -38,7 +38,7 @@ x install process-compose
 
 ## 流行度
 
-- **Star**: 2,879 · **Fork**: 159 · **开放 issue**: 312 · **贡献者**: 57
+- **Star**: 2,886 · **Fork**: 159 · **开放 issue**: 312 · **贡献者**: 57
 
 ## 累计统计
 
@@ -48,12 +48,12 @@ x install process-compose
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-22 | 0 | 2 | 13 | 2 | 8 | 4 |
-| last60d | 2026-08-23 | 0 | 3 | 16 | 3 | 16 | 4 |
-| 90d | 2026-07-24 | 1 | 3 | 16 | 9 | 18 | 17 |
-| last180d | 2026-04-25 | 4 | 12 | 17 | 30 | 18 | 48 |
-| 360d | 2025-10-27 | 13 | 22 | 19 | 65 | 20 | 213 |
-| last720d | 2024-11-01 | 21 | 62 | 20 | 131 | 22 | 383 |
+| 30d | 2026-09-23 | 0 | 2 | 13 | 2 | 8 | 4 |
+| last60d | 2026-08-24 | 0 | 3 | 16 | 3 | 16 | 4 |
+| 90d | 2026-07-25 | 1 | 3 | 16 | 9 | 18 | 17 |
+| last180d | 2026-04-26 | 4 | 12 | 17 | 30 | 18 | 48 |
+| 360d | 2025-10-28 | 13 | 21 | 19 | 64 | 20 | 213 |
+| last720d | 2024-11-02 | 21 | 62 | 20 | 131 | 22 | 383 |
 
 ## Release 资产
 
@@ -69,6 +69,15 @@ x install process-compose
 | [process-compose_windows_amd64.zip](https://github.com/F1bonacc1/process-compose/releases/download/v1.122.0/process-compose_windows_amd64.zip) | 15.3 MiB | `native/win/x64` |
 | [process-compose_windows_arm64.zip](https://github.com/F1bonacc1/process-compose/releases/download/v1.122.0/process-compose_windows_arm64.zip) | 13.9 MiB | `native/win/arm64` |
 
+## 发行版状态
+
+在 [repology.org](https://repology.org/project/process-compose) 上共有 **13** 个发行版报告此项目。**7** 个 ✅ 已是最新上游版本，**5** 个 ⚠️ 使用旧版本。
+
+| 发行版 | 版本 | 状态 |
+|--------|------|------|
+| Arch | `1.122.0` | ✅ latest |
+| Nix unstable | `1.122.0` | ✅ latest |
+
 ## 改进这些数据
 
 process-compose 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索引维护——这是一份由 x-cmd 在安装时读取的精选 YAML 包列表。如果 `process-compose` 缺失、过期，或安装行为有问题，欢迎在该 repo 提 issue 或 PR：
@@ -78,4 +87,4 @@ process-compose 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/i
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261022.yml` · 2026-10-22T05:44:19Z._
+_数据快照: `data/card/261023.yml` · 2026-10-23T05:48:06Z._
