@@ -5,7 +5,7 @@
   visiblename: process-compose
   version: 1.122.0
   origversion: 1.122.0-alt1
-  status: newest
+  status: outdated
   summary: Process Compose is a simple and flexible scheduler and orchestrator to manage non-containerized applications.
   maintainers:
     - zerospirit@altlinux.org
@@ -20,7 +20,7 @@
   visiblename: process-compose
   version: 1.122.0
   origversion: 1.122.0-1
-  status: newest
+  status: outdated
   summary: A simple and flexible scheduler and orchestrator to manage non-containerized applications
   licenses:
     - Apache-2.0
@@ -43,7 +43,7 @@
   visiblename: process-compose
   version: 1.122.0
   origversion: 1.122.0-1
-  status: newest
+  status: outdated
   summary: A simple and flexible scheduler and orchestrator to manage non-containerized applications
   licenses:
     - Apache-2.0
@@ -54,7 +54,7 @@
   visiblename: process-compose
   version: 1.122.0
   origversion: 1.122.0-1
-  status: newest
+  status: outdated
   summary: A simple and flexible scheduler and orchestrator to manage non-containerized applications
   licenses:
     - Apache-2.0
@@ -118,7 +118,7 @@
   visiblename: process-compose
   version: 1.122.0
   origversion: null
-  status: newest
+  status: outdated
   summary: Simple and flexible scheduler and orchestrator to manage non-containerized applications
   maintainers:
     - thenonameguy24@gmail.com
@@ -131,7 +131,7 @@
   visiblename: process-compose
   version: 1.122.0
   origversion: 1.122.0-1
-  status: newest
+  status: outdated
   summary: A simple and flexible scheduler and orchestrator to manage non-containerized applications
   licenses:
     - Apache-2.0
@@ -139,7 +139,7 @@
   subrepo: extras
   binname: process-compose
   visiblename: process-compose
-  version: 1.122.0
+  version: 1.124.0
   origversion: null
   status: newest
   licenses:
