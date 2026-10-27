@@ -14,15 +14,15 @@ x install process-compose
 
 ## 代码洞察
 
-合计: **51,824** 行代码（覆盖前 5 种语言、共 **373** 个文件）。
+合计: **53,893** 行代码（覆盖前 5 种语言、共 **387** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| Go | 39,287 | 3,171 | 4,266 | 245 |
+| Go | 41,229 | 3,430 | 4,481 | 255 |
 | Json | 4,215 | 0 | 0 | 14 |
-| Yaml | 4,060 | 118 | 302 | 82 |
+| Yaml | 4,088 | 119 | 305 | 84 |
 | Python | 1,453 | 47 | 251 | 13 |
-| Sh | 752 | 98 | 102 | 19 |
+| Sh | 851 | 121 | 118 | 21 |
 
 ## 源代码
 
@@ -32,51 +32,51 @@ x install process-compose
 
 ## 发布
 
-- **最新版本**: `v1.122.0` (2026-08-17)
-- **最近提交**: 2026-10-17
+- **最新版本**: `v1.124.0` (2026-10-26)
+- **最近提交**: 2026-10-26
 - **Release 含资产**: 9 个
 
 ## 流行度
 
-- **Star**: 2,894 · **Fork**: 159 · **开放 issue**: 312 · **贡献者**: 57
+- **Star**: 2,899 · **Fork**: 159 · **开放 issue**: 312 · **贡献者**: 59
 
 ## 累计统计
 
-- **发布数**: 72 · **已合并 PR**: 107 · **开放 PR**: 20 · **已关闭 issue**: 290 · **开放 issue**: 22 · **提交数**: 855
+- **发布数**: 73 · **已合并 PR**: 108 · **开放 PR**: 16 · **已关闭 issue**: 297 · **开放 issue**: 15 · **提交数**: 877
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-26 | 0 | 2 | 13 | 2 | 8 | 4 |
-| last60d | 2026-08-27 | 0 | 3 | 16 | 3 | 14 | 4 |
-| 90d | 2026-07-28 | 1 | 3 | 16 | 9 | 18 | 12 |
-| last180d | 2026-04-29 | 4 | 12 | 17 | 30 | 18 | 42 |
-| 360d | 2025-10-31 | 13 | 21 | 19 | 63 | 20 | 208 |
-| last720d | 2024-11-05 | 21 | 62 | 20 | 131 | 22 | 383 |
+| 30d | 2026-09-27 | 1 | 2 | 10 | 4 | 6 | 15 |
+| last60d | 2026-08-28 | 1 | 4 | 12 | 9 | 8 | 20 |
+| 90d | 2026-07-29 | 2 | 4 | 12 | 15 | 11 | 30 |
+| last180d | 2026-04-30 | 5 | 13 | 13 | 37 | 11 | 60 |
+| 360d | 2025-11-01 | 14 | 22 | 15 | 70 | 13 | 226 |
+| last720d | 2024-11-06 | 22 | 63 | 16 | 138 | 15 | 405 |
 
 ## Release 资产
 
 | 资产 | 大小 | 目标平台 |
 |------|-----:|----------|
-| [process-compose_checksums.txt](https://github.com/F1bonacc1/process-compose/releases/download/v1.122.0/process-compose_checksums.txt) | 804 B | `other` |
-| [process-compose_darwin_amd64.tar.gz](https://github.com/F1bonacc1/process-compose/releases/download/v1.122.0/process-compose_darwin_amd64.tar.gz) | 15.3 MiB | `native/darwin/x64` |
-| [process-compose_darwin_arm64.tar.gz](https://github.com/F1bonacc1/process-compose/releases/download/v1.122.0/process-compose_darwin_arm64.tar.gz) | 14.4 MiB | `native/darwin/arm64` |
-| [process-compose_linux_386.tar.gz](https://github.com/F1bonacc1/process-compose/releases/download/v1.122.0/process-compose_linux_386.tar.gz) | 14.4 MiB | `native/unknown` |
-| [process-compose_linux_amd64.tar.gz](https://github.com/F1bonacc1/process-compose/releases/download/v1.122.0/process-compose_linux_amd64.tar.gz) | 15.2 MiB | `native/linux/x64` |
-| [process-compose_linux_arm.tar.gz](https://github.com/F1bonacc1/process-compose/releases/download/v1.122.0/process-compose_linux_arm.tar.gz) | 14.5 MiB | `native/linux/arm` |
-| [process-compose_linux_arm64.tar.gz](https://github.com/F1bonacc1/process-compose/releases/download/v1.122.0/process-compose_linux_arm64.tar.gz) | 14.0 MiB | `native/linux/arm64` |
-| [process-compose_windows_amd64.zip](https://github.com/F1bonacc1/process-compose/releases/download/v1.122.0/process-compose_windows_amd64.zip) | 15.3 MiB | `native/win/x64` |
-| [process-compose_windows_arm64.zip](https://github.com/F1bonacc1/process-compose/releases/download/v1.122.0/process-compose_windows_arm64.zip) | 13.9 MiB | `native/win/arm64` |
+| [process-compose_checksums.txt](https://github.com/F1bonacc1/process-compose/releases/download/v1.124.0/process-compose_checksums.txt) | 804 B | `other` |
+| [process-compose_darwin_amd64.tar.gz](https://github.com/F1bonacc1/process-compose/releases/download/v1.124.0/process-compose_darwin_amd64.tar.gz) | 15.5 MiB | `native/darwin/x64` |
+| [process-compose_darwin_arm64.tar.gz](https://github.com/F1bonacc1/process-compose/releases/download/v1.124.0/process-compose_darwin_arm64.tar.gz) | 14.6 MiB | `native/darwin/arm64` |
+| [process-compose_linux_386.tar.gz](https://github.com/F1bonacc1/process-compose/releases/download/v1.124.0/process-compose_linux_386.tar.gz) | 14.7 MiB | `native/unknown` |
+| [process-compose_linux_amd64.tar.gz](https://github.com/F1bonacc1/process-compose/releases/download/v1.124.0/process-compose_linux_amd64.tar.gz) | 15.4 MiB | `native/linux/x64` |
+| [process-compose_linux_arm.tar.gz](https://github.com/F1bonacc1/process-compose/releases/download/v1.124.0/process-compose_linux_arm.tar.gz) | 14.8 MiB | `native/linux/arm` |
+| [process-compose_linux_arm64.tar.gz](https://github.com/F1bonacc1/process-compose/releases/download/v1.124.0/process-compose_linux_arm64.tar.gz) | 14.2 MiB | `native/linux/arm64` |
+| [process-compose_windows_amd64.zip](https://github.com/F1bonacc1/process-compose/releases/download/v1.124.0/process-compose_windows_amd64.zip) | 15.5 MiB | `native/win/x64` |
+| [process-compose_windows_arm64.zip](https://github.com/F1bonacc1/process-compose/releases/download/v1.124.0/process-compose_windows_arm64.zip) | 14.1 MiB | `native/win/arm64` |
 
 ## 发行版状态
 
-在 [repology.org](https://repology.org/project/process-compose) 上共有 **13** 个发行版报告此项目。**7** 个 ✅ 已是最新上游版本，**5** 个 ⚠️ 使用旧版本。
+在 [repology.org](https://repology.org/project/process-compose) 上共有 **13** 个发行版报告此项目。**1** 个 ✅ 已是最新上游版本，**11** 个 ⚠️ 使用旧版本。
 
 | 发行版 | 版本 | 状态 |
 |--------|------|------|
-| Arch | `1.122.0` | ✅ latest |
-| Nix unstable | `1.122.0` | ✅ latest |
+| Arch | `1.122.0` | ⚠️ outdated |
+| Nix unstable | `1.122.0` | ⚠️ outdated |
 
 ## 改进这些数据
 
@@ -87,4 +87,4 @@ process-compose 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/i
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261026.yml` · 2026-10-26T05:48:34Z._
+_数据快照: `data/card/261027.yml` · 2026-10-27T06:06:20Z._
