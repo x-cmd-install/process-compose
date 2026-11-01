@@ -24,6 +24,17 @@
   summary: A simple and flexible scheduler and orchestrator to manage non-containerized applications
   licenses:
     - Apache-2.0
+- repo: arch_testing
+  subrepo: extra-testing
+  srcname: process-compose
+  binname: process-compose
+  visiblename: process-compose
+  version: 1.124.0
+  origversion: 1.124.0-1
+  status: newest
+  summary: A simple and flexible scheduler and orchestrator to manage non-containerized applications
+  licenses:
+    - Apache-2.0
 - repo: aur
   srcname: process-compose-git
   binname: process-compose-git
