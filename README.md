@@ -38,7 +38,7 @@ Total: **53,893** lines of code across **387** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 2,909 · **Forks**: 159 · **Open issues**: 312 · **Contributors**: 59
+- **Stars**: 2,911 · **Forks**: 159 · **Open issues**: 312 · **Contributors**: 59
 
 ## Totals (cumulative)
 
@@ -48,12 +48,12 @@ Total: **53,893** lines of code across **387** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-01 | 1 | 2 | 10 | 2 | 6 | 15 |
-| last60d | 2026-09-01 | 1 | 4 | 12 | 9 | 8 | 20 |
-| 90d | 2026-08-02 | 2 | 4 | 12 | 15 | 11 | 30 |
-| last180d | 2026-05-04 | 4 | 13 | 13 | 37 | 11 | 60 |
-| 360d | 2025-11-05 | 13 | 22 | 15 | 68 | 13 | 226 |
-| last720d | 2024-11-10 | 21 | 62 | 16 | 136 | 15 | 394 |
+| 30d | 2026-10-02 | 1 | 1 | 8 | 2 | 4 | 14 |
+| last60d | 2026-09-02 | 1 | 4 | 12 | 9 | 8 | 20 |
+| 90d | 2026-08-03 | 2 | 4 | 12 | 14 | 11 | 30 |
+| last180d | 2026-05-05 | 4 | 12 | 13 | 37 | 11 | 59 |
+| 360d | 2025-11-06 | 12 | 22 | 15 | 68 | 13 | 223 |
+| last720d | 2024-11-11 | 20 | 62 | 16 | 136 | 15 | 391 |
 
 ## Release assets
 
@@ -71,7 +71,7 @@ Total: **53,893** lines of code across **387** files in the top 5 languages.
 
 ## Distribution status
 
-Reported by **13** distros on [repology.org](https://repology.org/project/process-compose). **1** are ✅ on the latest upstream release, **11** are ⚠️ on an older version.
+Reported by **14** distros on [repology.org](https://repology.org/project/process-compose). **2** are ✅ on the latest upstream release, **11** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -87,4 +87,4 @@ Install metadata for process-compose lives in the [x-cmd/install](https://github
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261031.yml` · 2026-10-31T06:36:35Z._
+_Snapshot: `data/card/261101.yml` · 2026-11-01T07:00:08Z._
