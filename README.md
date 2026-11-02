@@ -38,22 +38,22 @@ Total: **53,893** lines of code across **387** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 2,911 · **Forks**: 159 · **Open issues**: 312 · **Contributors**: 59
+- **Stars**: 2,911 · **Forks**: 160 · **Open issues**: 312 · **Contributors**: 59
 
 ## Totals (cumulative)
 
-- **Releases**: 73 · **Merged PRs**: 108 · **Open PRs**: 16 · **Closed issues**: 297 · **Open issues**: 15 · **Commits**: 877
+- **Releases**: 73 · **Merged PRs**: 108 · **Open PRs**: 17 · **Closed issues**: 297 · **Open issues**: 15 · **Commits**: 877
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-02 | 1 | 1 | 8 | 2 | 4 | 14 |
-| last60d | 2026-09-02 | 1 | 4 | 12 | 9 | 8 | 20 |
-| 90d | 2026-08-03 | 2 | 4 | 12 | 14 | 11 | 30 |
-| last180d | 2026-05-05 | 4 | 12 | 13 | 37 | 11 | 59 |
-| 360d | 2025-11-06 | 12 | 22 | 15 | 68 | 13 | 223 |
-| last720d | 2024-11-11 | 20 | 62 | 16 | 136 | 15 | 391 |
+| 30d | 2026-10-03 | 1 | 1 | 9 | 2 | 4 | 14 |
+| last60d | 2026-09-03 | 1 | 4 | 13 | 9 | 7 | 20 |
+| 90d | 2026-08-04 | 2 | 4 | 13 | 14 | 11 | 30 |
+| last180d | 2026-05-06 | 4 | 12 | 14 | 37 | 11 | 59 |
+| 360d | 2025-11-07 | 12 | 22 | 16 | 67 | 13 | 223 |
+| last720d | 2024-11-12 | 20 | 62 | 17 | 136 | 15 | 391 |
 
 ## Release assets
 
@@ -71,11 +71,11 @@ Total: **53,893** lines of code across **387** files in the top 5 languages.
 
 ## Distribution status
 
-Reported by **14** distros on [repology.org](https://repology.org/project/process-compose). **2** are ✅ on the latest upstream release, **11** are ⚠️ on an older version.
+Reported by **12** distros on [repology.org](https://repology.org/project/process-compose). **3** are ✅ on the latest upstream release, **8** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
-| Arch | `1.122.0` | ⚠️ outdated |
+| Arch | `1.124.0` | ✅ latest |
 | Nix unstable | `1.122.0` | ⚠️ outdated |
 
 ## Improve this data
@@ -87,4 +87,4 @@ Install metadata for process-compose lives in the [x-cmd/install](https://github
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261101.yml` · 2026-11-01T07:00:08Z._
+_Snapshot: `data/card/261102.yml` · 2026-11-02T07:14:42Z._
