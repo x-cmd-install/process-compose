@@ -36,7 +36,7 @@
     - ggorg@aur
   licenses:
     - Apache-2.0
-- repo: manjaro_unstable
+- repo: manjaro_stable
   subrepo: extra
   srcname: process-compose
   binname: process-compose
@@ -44,6 +44,28 @@
   version: 1.122.0
   origversion: 1.122.0-1
   status: outdated
+  summary: A simple and flexible scheduler and orchestrator to manage non-containerized applications
+  licenses:
+    - Apache-2.0
+- repo: manjaro_testing
+  subrepo: extra
+  srcname: process-compose
+  binname: process-compose
+  visiblename: process-compose
+  version: 1.122.0
+  origversion: 1.122.0-1
+  status: outdated
+  summary: A simple and flexible scheduler and orchestrator to manage non-containerized applications
+  licenses:
+    - Apache-2.0
+- repo: manjaro_unstable
+  subrepo: extra
+  srcname: process-compose
+  binname: process-compose
+  visiblename: process-compose
+  version: 1.124.0
+  origversion: 1.124.0-1
+  status: newest
   summary: A simple and flexible scheduler and orchestrator to manage non-containerized applications
   licenses:
     - Apache-2.0
