@@ -38,22 +38,22 @@ Total: **53,974** lines of code across **387** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 2,928 · **Forks**: 162 · **Open issues**: 313 · **Contributors**: 60
+- **Stars**: 2,931 · **Forks**: 162 · **Open issues**: 314 · **Contributors**: 60
 
 ## Totals (cumulative)
 
-- **Releases**: 73 · **Merged PRs**: 109 · **Open PRs**: 19 · **Closed issues**: 298 · **Open issues**: 15 · **Commits**: 878
+- **Releases**: 73 · **Merged PRs**: 109 · **Open PRs**: 19 · **Closed issues**: 298 · **Open issues**: 16 · **Commits**: 878
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-09 | 1 | 2 | 11 | 1 | 5 | 15 |
-| last60d | 2026-09-09 | 1 | 4 | 15 | 6 | 7 | 21 |
-| 90d | 2026-08-10 | 2 | 5 | 15 | 15 | 11 | 31 |
-| last180d | 2026-05-12 | 4 | 13 | 16 | 36 | 11 | 60 |
-| 360d | 2025-11-13 | 12 | 22 | 18 | 67 | 13 | 224 |
-| last720d | 2024-11-18 | 20 | 63 | 19 | 136 | 15 | 392 |
+| 30d | 2026-10-10 | 1 | 2 | 11 | 1 | 6 | 11 |
+| last60d | 2026-09-10 | 1 | 4 | 15 | 6 | 8 | 17 |
+| 90d | 2026-08-11 | 2 | 5 | 15 | 15 | 12 | 28 |
+| last180d | 2026-05-13 | 4 | 13 | 16 | 35 | 12 | 58 |
+| 360d | 2025-11-14 | 12 | 22 | 18 | 67 | 14 | 212 |
+| last720d | 2024-11-19 | 20 | 63 | 19 | 136 | 16 | 392 |
 
 ## Release assets
 
@@ -71,7 +71,7 @@ Total: **53,974** lines of code across **387** files in the top 5 languages.
 
 ## Distribution status
 
-Reported by **14** distros on [repology.org](https://repology.org/project/process-compose). **4** are ✅ on the latest upstream release, **9** are ⚠️ on an older version.
+Reported by **14** distros on [repology.org](https://repology.org/project/process-compose). **5** are ✅ on the latest upstream release, **8** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -87,4 +87,4 @@ Install metadata for process-compose lives in the [x-cmd/install](https://github
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261108.yml` · 2026-11-08T06:58:57Z._
+_Snapshot: `data/card/261109.yml` · 2026-11-09T07:32:14Z._
