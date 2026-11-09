@@ -1,3 +1,45 @@
+- repo: nix_stable_24_11
+  srcname: process-compose
+  visiblename: process-compose
+  version: 1.46.0
+  origversion: null
+  status: outdated
+  summary: Simple and flexible scheduler and orchestrator to manage non-containerized applications
+  maintainers:
+    - thenonameguy24@gmail.com
+  licenses:
+    - Apache-2.0
+- repo: scoop
+  subrepo: extras
+  binname: process-compose
+  visiblename: process-compose
+  version: 1.124.0
+  origversion: null
+  status: newest
+  licenses:
+    - Apache-2.0
+- repo: manjaro_unstable
+  subrepo: extra
+  srcname: process-compose
+  binname: process-compose
+  visiblename: process-compose
+  version: 1.124.0
+  origversion: 1.124.0-1
+  status: newest
+  summary: A simple and flexible scheduler and orchestrator to manage non-containerized applications
+  licenses:
+    - Apache-2.0
+- repo: nix_stable_24_05
+  srcname: process-compose
+  visiblename: process-compose
+  version: 1.6.1
+  origversion: null
+  status: outdated
+  summary: A simple and flexible scheduler and orchestrator to manage non-containerized applications
+  maintainers:
+    - thenonameguy24@gmail.com
+  licenses:
+    - Apache-2.0
 - repo: altsisyphus
   srcname: process-compose
   binnames:
@@ -52,43 +94,10 @@
   srcname: process-compose
   binname: process-compose
   visiblename: process-compose
-  version: 1.122.0
-  origversion: 1.122.0-1
-  status: outdated
-  summary: A simple and flexible scheduler and orchestrator to manage non-containerized applications
-  licenses:
-    - Apache-2.0
-- repo: manjaro_unstable
-  subrepo: extra
-  srcname: process-compose
-  binname: process-compose
-  visiblename: process-compose
   version: 1.124.0
   origversion: 1.124.0-1
   status: newest
   summary: A simple and flexible scheduler and orchestrator to manage non-containerized applications
-  licenses:
-    - Apache-2.0
-- repo: nix_stable_24_05
-  srcname: process-compose
-  visiblename: process-compose
-  version: 1.6.1
-  origversion: null
-  status: outdated
-  summary: A simple and flexible scheduler and orchestrator to manage non-containerized applications
-  maintainers:
-    - thenonameguy24@gmail.com
-  licenses:
-    - Apache-2.0
-- repo: nix_stable_24_11
-  srcname: process-compose
-  visiblename: process-compose
-  version: 1.46.0
-  origversion: null
-  status: outdated
-  summary: Simple and flexible scheduler and orchestrator to manage non-containerized applications
-  maintainers:
-    - thenonameguy24@gmail.com
   licenses:
     - Apache-2.0
 - repo: nix_stable_25_05
@@ -144,14 +153,5 @@
   origversion: 1.124.0-1
   status: newest
   summary: A simple and flexible scheduler and orchestrator to manage non-containerized applications
-  licenses:
-    - Apache-2.0
-- repo: scoop
-  subrepo: extras
-  binname: process-compose
-  visiblename: process-compose
-  version: 1.124.0
-  origversion: null
-  status: newest
   licenses:
     - Apache-2.0
