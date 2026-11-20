@@ -38,22 +38,22 @@ Total: **54,022** lines of code across **388** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 2,952 · **Forks**: 164 · **Open issues**: 317 · **Contributors**: 61
+- **Stars**: 2,953 · **Forks**: 164 · **Open issues**: 318 · **Contributors**: 61
 
 ## Totals (cumulative)
 
-- **Releases**: 73 · **Merged PRs**: 110 · **Open PRs**: 22 · **Closed issues**: 300 · **Open issues**: 17 · **Commits**: 880
+- **Releases**: 73 · **Merged PRs**: 110 · **Open PRs**: 23 · **Closed issues**: 300 · **Open issues**: 18 · **Commits**: 880
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-20 | 1 | 2 | 6 | 2 | 3 | 6 |
-| last60d | 2026-09-20 | 1 | 4 | 16 | 6 | 9 | 17 |
-| 90d | 2026-08-21 | 1 | 6 | 18 | 12 | 12 | 22 |
-| last180d | 2026-05-23 | 4 | 11 | 19 | 32 | 13 | 55 |
-| 360d | 2025-11-24 | 11 | 23 | 21 | 67 | 15 | 207 |
-| last720d | 2024-11-29 | 20 | 64 | 22 | 135 | 17 | 394 |
+| 30d | 2026-10-21 | 1 | 2 | 7 | 2 | 4 | 6 |
+| last60d | 2026-09-21 | 1 | 4 | 17 | 6 | 10 | 17 |
+| 90d | 2026-08-22 | 1 | 6 | 19 | 12 | 13 | 22 |
+| last180d | 2026-05-24 | 4 | 11 | 20 | 32 | 14 | 55 |
+| 360d | 2025-11-25 | 11 | 23 | 22 | 67 | 16 | 207 |
+| last720d | 2024-11-30 | 20 | 64 | 23 | 135 | 18 | 394 |
 
 ## Release assets
 
@@ -87,4 +87,4 @@ Install metadata for process-compose lives in the [x-cmd/install](https://github
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261119.yml` · 2026-11-19T09:51:09Z._
+_Snapshot: `data/card/261120.yml` · 2026-11-20T10:11:20Z._
